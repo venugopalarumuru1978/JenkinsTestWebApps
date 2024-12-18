@@ -2,7 +2,7 @@
 <head>
 <title>Test Site</title>
 </head>
-<body>
+<body style="background-color: yellow">
 <p style="text-align:center">
 <a href="index.jsp">Home</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

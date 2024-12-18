@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
 <title>Test Site</title>
 </head>
-<body style="background-color: yellow">
+<body>
 <p style="text-align:center">
 <a href="index.jsp">Home</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,7 +11,8 @@
 <a href="Page2.html">Page-2</a>
 </p>
 <hr />
+<h1>This is home page</h1>
+<h2>Hello World!</h2>
 
-<h1>This is Page - 2</h1>
 </body>
 </html>
