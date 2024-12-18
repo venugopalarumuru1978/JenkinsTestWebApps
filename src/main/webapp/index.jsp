@@ -3,6 +3,7 @@
 <title>Test Site</title>
 </head>
 <body style="background-color: yellow">
+<img src="Images/Pic2.jpg" width="100%" height="200px" />
 <p style="text-align:center">
 <a href="index.jsp">Home</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
